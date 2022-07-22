@@ -32,12 +32,11 @@
     </span>
 <hr>
 
-<div styles="display: flex; flex-direction: column;" >
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MercuryHG007&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MercuryHG007)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MercuryHG007)](https://git.io/streak-stats)
-<div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MercuryHG007&show_icons=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MercuryHG007)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MercuryHG007)](https://git.io/streak-stats)
 
+ 
 <h3>Connect with Me!</h3>
 <p align="center">
 <br/>
