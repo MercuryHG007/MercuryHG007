@@ -32,10 +32,11 @@
     </span>
 <hr>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MercuryHG007&show_icons=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MercuryHG007)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MercuryHG007)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MercuryHG007)](https://git.io/streak-stats)
 
+## Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MercuryHG007&show_icons=true)
  
 <h3>Connect with Me!</h3>
 <p align="center">
